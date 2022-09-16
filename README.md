@@ -5,6 +5,8 @@ Edit: This quick fix to the design incorporates the following:
 - Removes the need for supports on the Base piece.
 - Decreases the required sanding by tapering the tabs on the ButtonCapHolder.
 
+Note: Only the generic ButtonBase has been updated, not the ButtonBase_Spade.
+
 # InteractSwitch
 Designs for a set of assistive technology switches
 
