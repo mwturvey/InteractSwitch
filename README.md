@@ -1,3 +1,12 @@
+Edit: This quick fix to the design incorporates the following:
+- Increases the screw hole size in the ButtonCapHolder to accept both M2.5 screws as well as #4 3/8" screws.
+- Lines up the holes in the base with the holes in the ButtonCapHolder.
+- Deepens the countersink in the Base for the screws.
+- Removes the need for supports on the Base piece.
+- Decreases the required sanding by tapering the tabs on the ButtonCapHolder.
+
+Note: Only the generic ButtonBase has been updated, not the ButtonBase_Spade.
+
 # InteractSwitch
 Designs for a set of assistive technology switches
 
